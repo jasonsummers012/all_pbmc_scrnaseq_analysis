@@ -1,0 +1,9 @@
+"Metric","Value"
+"Initial cells",14602
+"Initial genes",26472
+"Cells after QC",13642
+"Genes after QC",26472
+"Highly variable features",2000
+"Principal components used",12
+"Clusters identified",18
+"Clustering resolution",0.5

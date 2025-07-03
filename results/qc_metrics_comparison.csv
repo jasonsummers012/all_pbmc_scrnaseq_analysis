@@ -1,0 +1,3 @@
+"Stage","Cells","Genes","Median_Genes_per_Cell","Median_UMI_per_Cell","Median_MT_Percent"
+"Before QC",14602,26472,3003,7073,2.65199740718503
+"After QC",13642,26472,3003,7073,2.65199740718503
